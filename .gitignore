@@ -1,0 +1,32 @@
+# git config --global core.excludesfile 
+#### Editors
+.*.swp
+.swp
+*~
+#### Compiled
+*.o
+*.class
+__pycache__/
+*.pyc
+*.pyo
+*.sage.py
+*.hi
+perf.data
+perf.data.old
+#### Latex
+*.out
+*.log
+*.nav
+*.snm
+*.toc
+*.vrb
+*.aux
+*.bbl
+*.brf
+*.blg
+*.cut
+*.fls
+*.fdb_latexmk
+##### Development environment
+venv/
+*.egg-info/
