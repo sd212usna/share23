@@ -4,7 +4,7 @@
 # of all the functions and run them one at a time.
 
 def m250024():
-    # YOUR CODE HERE!
+    print('something')
     pass
 
 def m250966():
