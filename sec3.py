@@ -8,7 +8,7 @@ def roche():
         for space in range(10):
             print(" "*space, "@@@@")
         for i in reversed(range(10)):
-            print(" "*space, "┬─┬ノ( º _ ºノ)")
+            print(" "*i, ":-(")
 
 def m250420():
     # YOUR CODE HERE!
