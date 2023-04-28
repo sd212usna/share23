@@ -53,6 +53,7 @@ def m256450():
 
 def m256894():
     # YOUR CODE HERE!
+    print('Go Navy!')
     pass
 
 def m256978():
