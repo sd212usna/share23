@@ -63,7 +63,7 @@ def m254932():
     pass
 
 def m255748():
-    # YOUR CODE HERE!
+    print("this is cool")
     pass
 
 
