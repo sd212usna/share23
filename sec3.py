@@ -5,10 +5,10 @@
 
 def roche():
     for _ in range(5):
-        for i in range(10):
-            print(" "*i, ":-)")
+        for space in range(10):
+            print(" "*space, "@@@@")
         for i in reversed(range(10)):
-            print(" "*i, ":-)")
+            print(" "*space, "┬─┬ノ( º _ ºノ)")
 
 def m250420():
     # YOUR CODE HERE!
