@@ -6,9 +6,9 @@
 def roche():
     for _ in range(5):
         for i in range(10):
-            print(" "*i, ":-)")
+            print(" "*j, ":-(")
         for i in reversed(range(10)):
-            print(" "*i, ":-)")
+            print(" "*i, ":-(")
 
 def m250420():
     # YOUR CODE HERE!
