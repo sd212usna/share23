@@ -4,7 +4,7 @@
 # of all the functions and run them one at a time.
 
 def m250024():
-    print('wake up')
+    print('something')
     pass
 
 def m250966():
