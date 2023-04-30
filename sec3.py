@@ -51,7 +51,11 @@ def m253306():
     pass
 
 def m253384():
-    # YOUR CODE HERE!
+    for _ in range(2):
+        for space in range(10):
+            print(" "*space, "<3")
+        for i in reversed(range(10)):
+            print(" "*i, "</3")
     pass
 
 def m254860():
