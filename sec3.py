@@ -64,7 +64,8 @@ def m254860():
     pass
 
 def m254932():
-    # YOUR CODE HERE!
+    for x in range(1,100):
+        print("Shai is Better than CP3")
     pass
 
 def m255748():
