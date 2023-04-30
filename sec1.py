@@ -62,6 +62,7 @@ def m256978():
 
 def m257062():
     # YOUR CODE HERE!
+    print('Yay')
     pass
 
 def m261026():
