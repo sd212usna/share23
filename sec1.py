@@ -44,7 +44,7 @@ def m255556():
     pass
 
 def m256390():
-    # YOUR CODE HERE!
+    print("Last week of school is so close!")
     pass
 
 def m256450():

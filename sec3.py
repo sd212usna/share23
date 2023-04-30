@@ -3,6 +3,13 @@
 # When you run this whole .py file, it should print out the names
 # of all the functions and run them one at a time.
 
+def roche():
+    for _ in range(5):
+        for space in range(10):
+            print(" "*space, "@@@@")
+        for i in reversed(range(10)):
+            print(" "*i, ":-(")
+
 def m250420():
     # YOUR CODE HERE!
     pass
@@ -44,7 +51,11 @@ def m253306():
     pass
 
 def m253384():
-    # YOUR CODE HERE!
+    for _ in range(2):
+        for space in range(10):
+            print(" "*space, "<3")
+        for i in reversed(range(10)):
+            print(" "*i, "</3")
     pass
 
 def m254860():
@@ -56,7 +67,7 @@ def m254932():
     pass
 
 def m255748():
-    # YOUR CODE HERE!
+    print("this is cool")
     pass
 
 
