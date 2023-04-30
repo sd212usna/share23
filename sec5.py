@@ -8,7 +8,7 @@ def m250072():
     pass
 
 def m252130():
-    # YOUR CODE HERE!
+    x = 10
     pass
 
 def m252670():

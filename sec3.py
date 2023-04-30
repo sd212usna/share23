@@ -23,7 +23,8 @@ def m250996():
     pass
 
 def m251632():
-    # YOUR CODE HERE!
+    for x in range(1,20):
+        print('Hola!','x'+str(x))
     pass
 
 def m252016():
@@ -51,7 +52,11 @@ def m253306():
     pass
 
 def m253384():
-    # YOUR CODE HERE!
+    for _ in range(2):
+        for space in range(10):
+            print(" "*space, "<3")
+        for i in reversed(range(10)):
+            print(" "*i, "</3")
     pass
 
 def m254860():
@@ -59,7 +64,8 @@ def m254860():
     pass
 
 def m254932():
-    # YOUR CODE HERE!
+    for x in range(1,100):
+        print("Shai is Better than CP3")
     pass
 
 def m255748():

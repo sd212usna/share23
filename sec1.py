@@ -44,7 +44,7 @@ def m255556():
     pass
 
 def m256390():
-    # YOUR CODE HERE!
+    print("Last week of school is so close!")
     pass
 
 def m256450():
@@ -53,6 +53,7 @@ def m256450():
 
 def m256894():
     # YOUR CODE HERE!
+    print('Go Navy!','Beat Army!')
     pass
 
 def m256978():
@@ -61,6 +62,7 @@ def m256978():
 
 def m257062():
     # YOUR CODE HERE!
+    print('Yay')
     pass
 
 def m261026():
