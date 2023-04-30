@@ -23,7 +23,8 @@ def m250996():
     pass
 
 def m251632():
-    # YOUR CODE HERE!
+    for x in range(1,20):
+        print('Hola!','x'+str(x))
     pass
 
 def m252016():
