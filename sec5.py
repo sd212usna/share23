@@ -5,6 +5,8 @@
 
 def m250072():
     # YOUR CODE HERE!
+    d = 30
+    print('1 + 1 =', str(d))
     pass
 
 def m252130():
