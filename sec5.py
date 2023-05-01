@@ -51,7 +51,7 @@ def m256258():
     pass
 
 def m256264():
-    # YOUR CODE HERE!
+    print(".")
     pass
 
 def m256294():
