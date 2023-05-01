@@ -41,7 +41,7 @@ def m254572():
     pass
 
 def m255556():
-    # YOUR CODE HERE!
+    print("running on fumes")
     pass
 
 def m256390():
