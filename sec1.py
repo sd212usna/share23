@@ -17,6 +17,7 @@ def m251344():
 
 def m252754():
     # YOUR CODE HERE!
+    print("Call someone you love today and tell them that you love them <3")
     pass
 
 def m252916():
