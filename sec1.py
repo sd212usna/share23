@@ -12,7 +12,7 @@ def m250966():
     pass
 
 def m251344():
-    # YOUR CODE HERE!
+    print('Why did the chicken cross the road?')
     pass
 
 def m252754():
