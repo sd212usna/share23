@@ -9,6 +9,9 @@ def m250072():
 
 def m252130():
     x = 10
+    for i in range(10):
+        x += 1
+    print(x)
     pass
 
 def m252670():
