@@ -23,7 +23,12 @@ def m252670():
     pass
 
 def m253762():
-    # YOUR CODE HERE!
+    donuts=0
+    for i in range (1000):
+        donuts+=1
+        workout=0
+    print('Aiden has eaten',donuts,"donuts....and worked out",workout,'times')
+
     pass
 
 def m253828():

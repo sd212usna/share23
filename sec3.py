@@ -10,6 +10,12 @@ def roche():
         for i in reversed(range(10)):
             print(" "*i, ":-(")
 
+            
+            
+def mgalilea():
+    print("lol")
+    pass
+
 def m250420():
     # YOUR CODE HERE!
     pass
@@ -45,7 +51,7 @@ def m252994():
     pass
 
 def m253036():
-    # YOUR CODE HERE!
+    print('Hello')
     pass
 
 def m253120():
