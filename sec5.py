@@ -17,11 +17,20 @@ def m252130():
     pass
 
 def m252670():
+    bennett = 10
+    olivia = 5
+    if bennett > olivia:
+        print('Seems Accurate')
     # YOUR CODE HERE!
     pass
 
 def m253762():
-    # YOUR CODE HERE!
+    donuts=0
+    for i in range (1000):
+        donuts+=1
+        workout=0
+    print('Aiden has eaten',donuts,"donuts....and worked out",workout,'times')
+
     pass
 
 def m253828():
