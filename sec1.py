@@ -4,7 +4,7 @@
 # of all the functions and run them one at a time.
 
 def m250024():
-    print('something')
+    print('finally')
     pass
 
 def m250966():
@@ -12,7 +12,7 @@ def m250966():
     pass
 
 def m251344():
-    # YOUR CODE HERE!
+    print('Why did the chicken cross the road?')
     pass
 
 def m252754():
@@ -41,7 +41,7 @@ def m254572():
     pass
 
 def m255556():
-    # YOUR CODE HERE!
+    print("running on fumes")
     pass
 
 def m256390():
@@ -59,6 +59,7 @@ def m256894():
 
 def m256978():
     # YOUR CODE HERE!
+    print("I like turkey sammies.")
     pass
 
 def m257062():
@@ -67,7 +68,7 @@ def m257062():
     pass
 
 def m261026():
-    # YOUR CODE HERE!
+    print('sir, go navy, sir!')
     pass
 
 
