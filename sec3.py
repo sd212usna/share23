@@ -32,7 +32,7 @@ def m252016():
     pass
 
 def m252310():
-    # YOUR CODE HERE!
+    print("hi")
     pass
 
 def m252994():
