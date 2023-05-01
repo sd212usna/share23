@@ -19,7 +19,12 @@ def m250522():
     pass
 
 def m250996():
-    # YOUR CODE HERE!
+    x = int(input('Gimme a number fool: '))
+    for i in range (0,10000):
+        if i < x:
+            print('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+        else:
+            print('0123456789')
     pass
 
 def m251632():
@@ -32,7 +37,7 @@ def m252016():
     pass
 
 def m252310():
-    # YOUR CODE HERE!
+    print("hi")
     pass
 
 def m252994():
