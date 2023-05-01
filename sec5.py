@@ -15,6 +15,10 @@ def m252130():
     pass
 
 def m252670():
+    bennett = 10
+    olivia = 5
+    if bennett > olivia:
+        print('Seems Accurate')
     # YOUR CODE HERE!
     pass
 
