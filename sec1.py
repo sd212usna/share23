@@ -28,7 +28,7 @@ def m253078():
     pass
 
 def m254230():
-    # YOUR CODE HERE!
+    print("ONLY 9 MORE DAYS")
     pass
 
 def m254530():
