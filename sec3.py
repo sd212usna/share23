@@ -45,7 +45,7 @@ def m252994():
     pass
 
 def m253036():
-    print('Hi')
+    print('Hello')
     pass
 
 def m253120():
