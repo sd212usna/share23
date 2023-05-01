@@ -25,11 +25,11 @@ def m252916():
     pass
 
 def m253078():
-    # YOUR CODE HERE!
+    print("Tanner was here!")
     pass
 
 def m254230():
-    # YOUR CODE HERE!
+    print("ONLY 9 MORE DAYS")
     pass
 
 def m254530():
